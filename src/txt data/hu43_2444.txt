@@ -1,0 +1,4 @@
+http://www.anime-forums.com/showthread.php?156301-Recent-Downtime
+ Recent Downtime
+ As I am sure many of you are aware, we had a long downtime in the last few days. We had a major failure that on its own takes a fair bit of time to fix (rebuilding part of the database), but also had server limitations that slowed down the task of rebuilding. All fixed now though. Thank you for bearing with us. 
+Owner and Admin of A4, Feel free to message me but PLEASE make sure your question isnt already answered in the FAQ (Frequently Asked Questions) Forum located HERE. 

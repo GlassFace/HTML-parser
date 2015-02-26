@@ -1,0 +1,4 @@
+http://www.anime-forums.com/showthread.php?109836-Known-Bugs
+ Known Bugs
+ I don't know if this is the right forum to post this, I noticed that this site has wrong <!doctype> element in the source. At least in my firefox it is showing that the doctype is not the right one for html, maybe it is intended for xhtml? 
+Get Anime Wallpaper! Looking for web site builder?

@@ -1,0 +1,4 @@
+http://www.anime-forums.com/showthread.php?118228-Server-is-too-busy
+ Server is too busy
+ The server was under massive load. Doesn't necessarily mean that a huge amount of people were on the forums, it is often caused by processes that are not behaving like they are supposed to. Memory leaks, not returning resources back to the system when it has finished using it etc.. Anyway, we restarted the main services and they went down fine, but didnt power back up like they were supposed to and it took a while to diagnose the problem. 
+Owner and Admin of A4, Feel free to message me but PLEASE make sure your question isnt already answered in the FAQ (Frequently Asked Questions) Forum located HERE. 

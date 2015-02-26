@@ -1,0 +1,4 @@
+http://www.anime-forums.com/showthread.php?109893-video-card-error
+ video card error
+ It doesn't look like what you usually see when a video card is overheating. Its more likely the drivers or the game itself. Update video card drivers as IanTheAmerican said. Update DirectX Is it the Steam version of the game? If so, right click on the game in the Games menu and choose "Defrag Local files" (or whatever it says). If that doesnt work, give the computer a good dust clean out for good measure. 
+Owner and Admin of A4, Feel free to message me but PLEASE make sure your question isnt already answered in the FAQ (Frequently Asked Questions) Forum located HERE. 

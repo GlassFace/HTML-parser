@@ -1,0 +1,4 @@
+http://www.anime-forums.com/showthread.php?160007-Hard-drive-disk-malfunction
+ Hard drive/disk malfunction?
+ You might try the DOS version if you're comfortable with it. So out of curiosity, does your OS boot at all now into a usable state? If all your stuff is gone and it's not workable, a reinstall might become your only option. You may want to save what you can and reinstall anyway. Just prepare your network drivers before you do if it's a laptop. You'll want those first thing. 
+ "Justice is nothing other than the advantage of the stronger." Common Errors in English Usage 

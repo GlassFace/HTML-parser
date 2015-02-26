@@ -1,0 +1,14 @@
+http://www.anime-forums.com/showthread.php?143271-Video-Editor-that-has-no-Lag
+[General Discussion] Video Editor that has no Lag?
+ I use Sony Vegas Pro 11 but I only use Sony Vegas when I am only working with 4 mins of material. When I try to make long videos the preview playback just lags hard and I can't do anything about it. I tried all the fixes out there for Sony Vegas but none seem to work. When I mean Tried I mean actually Tried all the fixes. So please do tell me any fixes for Sony Vegas. All I want know is there any Video Editor out there that is Lag Free, has decent tools, able to have multiple video and audio tracks in, and has to be free download or at least 7 day trail. Note = I have Windows Movie Maker. I tried Avs Editor. And used Wax 2.0. <---- None-of these cut my exceptions. 
+http://www.youtube.com/user/5swordmaster?feature=guide Love - 5swordmaster
+ Thats impossible, editors use a lot of processing power to do their stuff. Get better hardware, but the lag will still be there. 
+Anime watched: 73 My Youtube Channel: http://www.youtube.com/user/Uatemydoodle Kpop Thread: http://www.anime-forums.com/showthre...4-K-pop-Anyone 
+ I bought Vegas for 70 Euro and he doesnt lag even if the video is 10 min long. Probably trail or free versions sucks i would say. 
+ 
+ I guess A intel core i3 quad core processor isn't enough... 
+http://www.youtube.com/user/5swordmaster?feature=guide Love - 5swordmaster
+ The preview lags for most, just turn it down to Draft half or something. The preview isn't meant to be perfect in "Best Full" especially if you've added effects it's just there so you can work with it. I have to put mine to "draft half" to make it work properly and my computer stats are; - AMD Bulldozer (Eight-core processor) - 8GB RAM If you don't wanna have lag in your previews, just do a "RAM Preview" in Sony Vegas instead or render out parts. 
+
+ Originally Posted by Pured Thats impossible, editors use a lot of processing power to do their stuff. Get better hardware, but the lag will still be there. Agreed. Even with Adobe Premier Pro CS6, I get micro-lag. Modern software now revolves around quad cores and high powered CPU's, the such of what many people do not have. 
+ I am the serpent, lurking deep under water. Today, a water snake; tomorrow, a Hydra... 
